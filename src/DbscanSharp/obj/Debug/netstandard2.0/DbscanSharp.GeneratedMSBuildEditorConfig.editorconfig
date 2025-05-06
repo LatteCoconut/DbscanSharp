@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DbscanSharp
+build_property.ProjectDir = /Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{03495227-A09D-4463-A789-4F166009C385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbscanSharp", "src\DbscanSharp\DbscanSharp.csproj", "{37F37201-FC9A-4149-81C8-BD05A43AFF4E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{7CB9F3B9-FF94-4BD2-AEB3-007C864FD4DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbscanSharp.Tests", "test\DbscanSharp.Tests\DbscanSharp.Tests.csproj", "{49477418-DD5E-4FC6-B8C1-CC5307CA5944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F37201-FC9A-4149-81C8-BD05A43AFF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F37201-FC9A-4149-81C8-BD05A43AFF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F37201-FC9A-4149-81C8-BD05A43AFF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F37201-FC9A-4149-81C8-BD05A43AFF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49477418-DD5E-4FC6-B8C1-CC5307CA5944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49477418-DD5E-4FC6-B8C1-CC5307CA5944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49477418-DD5E-4FC6-B8C1-CC5307CA5944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49477418-DD5E-4FC6-B8C1-CC5307CA5944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37F37201-FC9A-4149-81C8-BD05A43AFF4E} = {03495227-A09D-4463-A789-4F166009C385}
+		{49477418-DD5E-4FC6-B8C1-CC5307CA5944} = {7CB9F3B9-FF94-4BD2-AEB3-007C864FD4DD}
+	EndGlobalSection
+EndGlobal

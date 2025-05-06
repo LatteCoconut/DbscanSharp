@@ -1,0 +1,10 @@
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.csproj.AssemblyReference.cache
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.AssemblyInfoInputs.cache
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.AssemblyInfo.cs
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.csproj.CoreCompileInputs.cache
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/bin/Debug/netstandard2.0/DbscanSharp.deps.json
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/bin/Debug/netstandard2.0/DbscanSharp.dll
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/bin/Debug/netstandard2.0/DbscanSharp.pdb
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.dll
+/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/obj/Debug/netstandard2.0/DbscanSharp.pdb

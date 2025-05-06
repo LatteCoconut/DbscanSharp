@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0cGlO3VsWAFjb4LLx8WUHEZIIVwySi5f8Dt/pU850NSseodysxt6KBTljT6n/OS2XpfC66yeVYYphr3YyVnBQ==",
+  "success": true,
+  "projectFilePath": "/Users/haiya/RiderProjects/DbscanSharp/src/DbscanSharp/DbscanSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/haiya/.nuget/packages/kdtree/1.4.1/kdtree.1.4.1.nupkg.sha512",
+    "/Users/haiya/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/haiya/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
