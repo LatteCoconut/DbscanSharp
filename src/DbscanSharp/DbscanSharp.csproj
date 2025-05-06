@@ -1,16 +1,23 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
-    <LangVersion>10.0</LangVersion>
-  </PropertyGroup>
+    <PropertyGroup>
+        <TargetFrameworks>netstandard2.0;net8.0</TargetFrameworks>
+        <LangVersion>10.0</LangVersion>
 
- 
+        <!-- NuGet 包元信息 -->
+        <PackageId>DbscanSharp</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>LatteCoconut</Authors>
+        <Description>Fast 2D DBSCAN clustering with KD-Tree acceleration in pure C#.</Description>
+        <PackageTags>dbscan;clustering;machine-learning;kdtree</PackageTags>
+        <RepositoryUrl>https://github.com/LatteCoconut/DbscanSharp</RepositoryUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="KdTree" Version="1.4.1" />
-  </ItemGroup>
-  
-  
+
+    <ItemGroup>
+        <PackageReference Include="KdTree" Version="1.4.1"/>
+    </ItemGroup>
+
 
 </Project>
