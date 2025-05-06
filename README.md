@@ -18,13 +18,13 @@
 
 ## 📦 Installation / 安装方式
 
-> 未来发布到 NuGet 后，可直接引用包（如下）。当前可通过克隆源码手动引用项目。
+> 可直接引用包或者克隆源码手动引用项目。
 
 ```bash
-# NuGet 方式（待发布）
+# NuGet 方式
 dotnet add package DbscanSharp
 
-# 手动引用源码（推荐结构）
+# 手动引用源码
 src/DbscanSharp/
 ```
 
